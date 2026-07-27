@@ -1,0 +1,13 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "rewrites": [
+    {
+      "source": "/",
+      "destination": "/class1/index2.html"
+    },
+    {
+      "source": "/profile-avatar.png",
+      "destination": "/class1/profile-avatar.png"
+    }
+  ]
+}
