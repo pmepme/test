@@ -3,7 +3,7 @@
   "rewrites": [
     {
       "source": "/",
-      "destination": "/class1/index2.html"
+      "destination": "/class1/index.html"
     },
     {
       "source": "/profile-avatar.png",
